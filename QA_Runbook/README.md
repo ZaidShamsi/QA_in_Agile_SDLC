@@ -3,8 +3,8 @@
 Testing is context dependent. It depends on:
 1. Which Software development Life Cycle you have chosen for your project? Which in turn depends on:
 2.   What is the nature of your project? Is it:
-    1. a safety-critical system, for example, a nuclear power project. In this case taking an iterative approach for development is a risky endeavour. Even it does not make sense to take iterative approach here as the requirement in such a project are clearely defined and technology well-established. Here, a V-model is best suitable.
-    2. a short time to market project, for example, an e-commerce site. In this case since the requirements are fluid and time to market is the key factor an Agile SDLC is our best go. Now the question arises which Agile are you?
+        1. Helloa safety-critical system, for example, a nuclear power project. In this case taking an iterative approach for development is a risky endeavour. Even it does not make sense to take iterative approach here as the requirement in such a project are clearely defined and technology well-established. Here, a V-model is best suitable.
+        2. a short time to market project, for example, an e-commerce site. In this case since the requirements are fluid and time to market is the key factor an Agile SDLC is our best go. Now the question arises which Agile are you?
 
 ## Kanban vs Scrum
 
