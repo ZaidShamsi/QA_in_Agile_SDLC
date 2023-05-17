@@ -47,4 +47,4 @@ Let's continue with our example of an e-commerce site. Say, a requiremnt/ticket/
 
 - QA Process
 - Functional testing
-- Regression testing vs Retesting
+- [Regression testing vs Retesting](regression_and_retesting/README.md)
