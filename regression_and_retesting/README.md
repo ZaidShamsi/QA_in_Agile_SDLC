@@ -1,3 +1,5 @@
+# Regression Testing and Retesting
+
 Consider a scenario that you are assigned as a QA Tester to a ticket. This ticket can be:
 - a user-story
 - a task
@@ -9,6 +11,8 @@ In simple jargon, you are given a task to test a component. You tested it and yo
 2. the remaining component, that is, the existing functionality which was working fine (this is the unchanged area of the component).
 
 So, Pt #1 is called re-testing or confirmation testing and Pt #2 is called regression testing.
+
+![regression_retesting](https://github.com/ZaidShamsi/QA_in_Agile_SDLC/assets/103277308/0fca6d78-8713-4969-93ba-83e2c92f22c3)
 
 **The objective of retesting is:**
 - to ensure that the fix provided confirms the specified requirements and is working as expected.
