@@ -13,6 +13,6 @@ Traditionally most of the testing effort occurs after the requirements have been
 
 ## Further reads
 - [Testing is context dependent](testing_is_context_dependent)
-- [QA process in Agile](QA_process_in_Agile)
+- [QA process in Agile](QA_process_in_agile)
 - [Regression and Retesting](regression_and_retesting)
 - [File Upload Testing](File_Upload_Testing)
