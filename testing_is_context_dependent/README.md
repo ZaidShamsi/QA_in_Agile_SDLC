@@ -1,4 +1,4 @@
-# QA Runbook
+# When to go with Agile?
 
 To begin with, **testing is context dependent**. It depends on:
 1. which Software Development Life Cycle (SDLC) you have chosen for your project, which in turn depends on:
@@ -6,7 +6,7 @@ To begin with, **testing is context dependent**. It depends on:
     1. a safety-critical system, for example, a nuclear power project. In this case taking an iterative approach for development is a risky endeavour. As the requirements in such a project are clearely defined and technology well-established, here, a V-model is best suitable.
     2. a short time to market project, for example, an e-commerce site. In this case since the requirements are fluid and time to market is the key factor, an Agile SDLC is our best go. Now the question arises which agile are you?
 
-## Kanban vs Scrum
+## Which agile are you? Kanban vs Scrum
 
 **Kanban** methodology is governed by Just in Time (JIT). As soon as a team member finishes the task, next task in line can be picked. Releases can be planned as and when we have developed and tested a deliverable. The Agile ceremonies in Kanban are:
 1. Daily Stand-up Meeting (DSM): This is a short, say 15 minutes, call. The objective is to induce public accountability in each team member and for everone to give their updates on:
@@ -46,8 +46,7 @@ Let's continue with our example of an e-commerce site.
 
 (Here's an interesting read: [Which agile are you?](https://www.atlassian.com/agile/kanban/kanban-vs-scrum))
 
-## Table of contents
+## Further reads
 
 - [QA Process](QA_process/README.md)
-- Functional testing
 - [Regression testing vs Retesting](regression_and_retesting/README.md)
