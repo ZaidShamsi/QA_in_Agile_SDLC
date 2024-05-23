@@ -11,8 +11,8 @@ Quality Assurance is an umberalla term that ensures the qualtiy of all the proce
 
 Traditionally most of the testing effort occurs after the requirements have been defined or after the coding process has been completed, but in the agile approaches testing effort goes hand in hand with each phase of the software deveopment lifecycle. To sum up, testing is context dependent.
 
-## Table of contents
-- [QA Runbook](QA_Runbook)
-    - [QA process](QA_Runbook/QA_process)
-    - [Regression and Retesting](QA_Runbook/regression_and_retesting)
+## Further reads
+- [Testing is context dependent](QA_Runbook)
+- [QA process](QA_Runbook/QA_process)
+- [Regression and Retesting](QA_Runbook/regression_and_retesting)
 - [File Upload Testing](File_Upload_Testing)
