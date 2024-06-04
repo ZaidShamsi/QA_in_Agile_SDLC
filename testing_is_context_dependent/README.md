@@ -45,8 +45,3 @@ Let's continue with our example of an e-commerce site.
 - Now these efforts are measured in number of hours required to complete the task, and ususally they are mapped into points called story points. So, for example, 1 story point can connote to 1 Business Day, which is 8 working hours. This is just an example at the end it depends on what your team has agreed upon.
 
 (Here's an interesting read: [Which agile are you?](https://www.atlassian.com/agile/kanban/kanban-vs-scrum))
-
-## Further reads
-
-- [QA process in Agile](QA_process_in_agile)
-- [Regression and Retesting](regression_and_retesting)
