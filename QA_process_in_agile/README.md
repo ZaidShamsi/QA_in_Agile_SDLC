@@ -27,3 +27,4 @@ There is a misconception that testing is just executing the test cases. Although
 - Update the QA Progress in DSM.
 - Be involved in retrospectives and provide your input to improve the QA Process.
 
+![sprint_cycle](https://github.com/ZaidShamsi/QA_in_Agile_SDLC/assets/103277308/e1263955-f3e6-4e84-8677-107bd8ec753c)
