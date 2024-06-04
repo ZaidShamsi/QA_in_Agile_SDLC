@@ -48,5 +48,5 @@ Let's continue with our example of an e-commerce site.
 
 ## Further reads
 
-- [QA Process](QA_process/README.md)
-- [Regression testing vs Retesting](regression_and_retesting/README.md)
+- [QA process in Agile](QA_process_in_agile)
+- [Regression and Retesting](regression_and_retesting)
